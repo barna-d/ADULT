@@ -6,7 +6,7 @@
 
 ## 🚀 Launch in Google Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iH41ZVrFcdaNLDsOMSuCPZoSlidRZ0ig)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ybOmMpzmQlnBQjemxtcCAk2-VteZcqBk?usp=sharing)
 
 ---
 
